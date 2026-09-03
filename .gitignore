@@ -1,0 +1,10 @@
+.venv/
+__pycache__/
+*.py[cod]
+.env
+_legacy/
+data/index/*.json
+data/documents/*
+!data/documents/.gitkeep
+!data/documents/demo-policy.md
+.streamlit/

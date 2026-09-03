@@ -1,0 +1,17 @@
+TÀI LIỆU MẪU — KHÔNG PHẢI QUY CHẾ CỦA DOANH NGHIỆP THẬT
+
+Quy trình đăng ký nghỉ hằng năm (dữ liệu giả lập để kiểm tra upload)
+
+Điều 1. Phạm vi
+Tài liệu này chỉ dùng để kiểm tra chức năng trích xuất, lập chỉ mục và kiểm chứng
+nguồn của LuatRAG. Không dùng làm căn cứ pháp lý hoặc chính sách nhân sự thực tế.
+
+Điều 2. Đăng ký nghỉ
+Trong kịch bản demo, nhân viên gửi đề nghị nghỉ qua cổng nội bộ trước ít nhất
+ba ngày làm việc. Đề nghị gồm thời gian nghỉ và phương án bàn giao công việc.
+Quản lý kiểm tra lịch làm việc, phản hồi đề nghị và lưu xác nhận trong cổng nội bộ.
+
+Điều 3. Kiểm tra căn cứ pháp luật
+Khi cần xác định quyền nghỉ hằng năm, phải đối chiếu Điều 113 Bộ luật Lao động
+45/2019/QH14 và kiểm tra hiệu lực tại nguồn chính thức. Quy trình giả lập trong
+tài liệu này không thay thế quyền lợi hoặc điều kiện được quy định trong luật.
